@@ -2,6 +2,7 @@
 
 Modular Sprite Sheet - a demonstration of dynamically created sprites and sprite-sheets. Contains two scenes:
 Scene 1) simpleSpriteSheetAnim - demonstrates a menu for changing an animated character's head colour (can be easily be expanded to change or replace any/all body parts)
+
 scene 2) ModularSpriteSheet - creates a sprite dynamically by combining other sprites to create a texture.
 
 Used the following video as reference and learning material:
