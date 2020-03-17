@@ -8,3 +8,7 @@ An advanced prototype of a 3d turn-based game involving tile-based movement. Inc
 <li>togleable crouch and run for each character, modifying their animations and move speed </li>
 </ul>
 Followed video series (https://www.youtube.com/playlist?list=PL1mv_09BK8vYlMnNRdYaAgoEki8Www9Fa) by SharpAccent [https://sharpaccent.com/] up to video 14
+
+
+![](TBGame_Img1.png) <br>
+![](TBGame_Img2.png) <br>
